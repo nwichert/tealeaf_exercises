@@ -1,0 +1,2 @@
+# I'm personally a fan of http://api.rubyonrails.org/. the easability of searching such a comprehensive
+# database allows me to not only find out what I need but also related topics I should know about.
